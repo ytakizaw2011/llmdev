@@ -1,0 +1,15 @@
+.header {
+    color: #fff;
+    background-color: #84ceef;
+}
+
+h1 {
+    display: flex;
+    color: #e47292;
+    justify-content: center;
+}
+
+.footer {
+    color: #fff;
+    background-color: #040000;
+}
